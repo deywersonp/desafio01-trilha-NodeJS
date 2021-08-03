@@ -94,19 +94,19 @@ The main features of the application are:
 
 - Create a user;
 - List all user TODOs;
-- Create a TASK;
-- Change the title and deadline of the TASK;
-- Mark a TASK as done;
-- Delete a TASK;
+- Create a task;
+- Change the title and deadline of the task;
+- Mark a task as done;
+- Delete a task;
 
 #### Business rules
 
 - It's not possible to create a user with the same username
-- It's not possible to list all EVERYONE for a non-existent username
-- It's not possible to create a TASK for a non-existent username
-- It's not possible to change the title and deadline of a non-existent TASK
-- It's not possible to mark a non-existent TASK as done
-- It's not possible to delete a non-existent TASK
+- It's not possible to list all tasks for a non-existent username
+- It's not possible to create a task for a non-existent username
+- It's not possible to change the title and deadline of a non-existent task
+- It's not possible to mark a non-existent task as done
+- It's not possible to delete a non-existent task
  
 <br>
 
