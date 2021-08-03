@@ -34,7 +34,7 @@ This project was developed using these techs:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Jest](https://jestjs.io/pt-BR/)
 
 <br>
